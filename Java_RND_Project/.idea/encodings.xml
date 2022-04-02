@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BinarySearchTree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BinarySearchTree/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CdPath/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CdPath/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CommonElementsInArray/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CommonElementsInArray/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DecimalToBinary/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DecimalToBinary/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DuplicateCharsInString/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DuplicateCharsInString/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FinbSubStringForGivenPosition/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FinbSubStringForGivenPosition/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FindDuplicateNumber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FindDuplicateNumber/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FindMiddleIndex/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FindMiddleIndex/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FindPrimNumber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FindPrimNumber/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Findfibbonacci/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Findfibbonacci/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FizzBuzzInSpecificThread/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FizzBuzzInSpecificThread/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FizzBuzzThreadConsumerProducer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FizzBuzzThreadConsumerProducer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FrogJump/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FrogJump/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ImplementArrayList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ImplementArrayList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IsPerfectNumber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IsPerfectNumber/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Java8Practice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Java8Practice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LongestSubstring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LongestSubstring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fibonacci-even-sum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fibonacci-even-sum/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/find-sum-of -digit-in-the-given-number-using-recursion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/find-sum-of -digit-in-the-given-number-using-recursion/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/findMedian/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/findMedian/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/findMode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/findMode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamdaDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamdaDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

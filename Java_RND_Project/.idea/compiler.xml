@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CommonElementsInArray" />
+        <module name="FizzBuzzThreadConsumerProducer" />
+        <module name="FrogJump" />
+        <module name="FinbSubStringForGivenPosition" />
+        <module name="LongestSubstring" />
+        <module name="fibonacci-even-sum" />
+        <module name="Java8Practice" />
+        <module name="DuplicateCharsInString" />
+        <module name="findMedian" />
+        <module name="lamdaDemo" />
+        <module name="find-sum-of -digit-in-the-given-number-using-recursion" />
+        <module name="ImplementArrayList" />
+        <module name="FindMiddleIndex" />
+        <module name="FizzBuzzInSpecificThread" />
+        <module name="FindPrimNumber" />
+        <module name="IsPerfectNumber" />
+        <module name="FindDuplicateNumber" />
+        <module name="DecimalToBinary" />
+        <module name="CdPath" />
+        <module name="findMode" />
+        <module name="BinarySearchTree" />
+        <module name="Findfibbonacci" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+</project>
